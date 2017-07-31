@@ -5,11 +5,11 @@ body {
 	background-color: black;
 	font-family: verdana;
 	text-align: center;
+	color: white;
 }
 
 /*	Styling for the <header> section		*/
 header {
-	color: white;
 }
 h1 {
 	font-size: 50px;
@@ -22,11 +22,11 @@ h2 {
 /*	Styling for the <article>s only			*/
 article {
 }
-article.a {
+article a {
 	color: aquamarine;
 	font-size: 16px;
 }
-article.p {
+article p {
 	color: gray;
 	font-size: 21px;
 }
